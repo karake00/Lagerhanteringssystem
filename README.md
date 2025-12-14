@@ -50,6 +50,14 @@ The code is written in an educational context and prioritizes clarity over optim
 
 ###
 
+<h2 align="left">📸 Snapshot 📸</h2>
+
+###
+
+<p align="left">
+  <img src="screenshot.png" alt="Snapshot of the inventory management system" width="600"/>
+</p>
+
 <p align="left">
 This repository is intended for learning and portfolio purposes and reflects my progress during a programming course.
 </p>
