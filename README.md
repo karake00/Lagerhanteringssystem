@@ -55,7 +55,7 @@ The code is written in an educational context and prioritizes clarity over optim
 ###
 
 <p align="left">
-  <img src="screenshott.png" alt="Snapshot of the inventory management system" width="600"/>
+  <img src="screenshott.png" alt="Snapshot of the inventory management system" width="300"/>
 </p>
 
 <p align="left">
